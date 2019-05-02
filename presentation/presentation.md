@@ -397,8 +397,11 @@ Solution for the code is in:
 
 #### <span style="color:purple"> Testing collisions: 1d </span>
 
-<img src="img/eq_ec.png" width="90%" />
+<img src="img/fig_ec.png" width="30%" />
+--
+<img src="img/eq_ec.png" width="80%" />
 
+  - sources: [wikipedia.org](wikipedia.org), [https://www.lucidar.me/](https://www.lucidar.me/)
 ---
 
 #### <span style="color:purple"> Testing collisions </span>
